@@ -1,7 +1,5 @@
 function App() {
-  return <>
-    <h1>shinkaym</h1>
-  </>
+  return <></>
 }
 
 export default App
